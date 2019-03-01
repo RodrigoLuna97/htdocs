@@ -9,7 +9,7 @@
 //array
 
  //$mensagens['a'] = 'OLÁ, TUDO BEM?';
- //$mensagens['b'] = 'Opa, fala ai vei';
+ //$mensagens['b'] = 'Opa, iai vei';
  //$mensagens[3] = 'Irineu, você não sabe e nem eu!';
  //$mensagens[4] = 'ISSO AQUI É UM TESTE';
 
